@@ -22,31 +22,31 @@
 
 Checkout Times for Users
 
-img src="Checkout Times for Users.PNG"
+![](Checkout Times for Users.png)
   
 - **The chart of Checkout Times for Users shows that the time used is about 6 minutes or less**
      
 Checkout Times by Gender
 
-<img src="Checkout Times by Gender.PNG">
+![](Checkout Times by Gender.png)
 
 - **The chart of Checkout Times by Gender shows that males uses the bikes more then female users.**
 
 Trips by Weekday per Hour
 
-<img src="Trips by Weekday per Hour.PNG">
+![](Trips by Weekday per Hour.png)
   
 - **The chart of Trips by Weekday per Hour shows that the bikes are mostly used during the 8 AM  to 9 AM hours and 4 PM to 6 PM hours.**
 
 Trips by Gender (Weekday per Hour)
 
-<img src="Trips by Gender (Weekday per Hour).PNG">
+![](Trips by Gender (Weekday per Hour).png)
   
 - **The chart of Trips by Gender (Weekday per Hour) shows that male users tend to use the bikes the most during the weekday and that most of them use the bikes during 8 AM to 7 PM time frame.**
 
 User Trips by Gender by Weekday
 
-<img src="User Trips by Gender.PNG">
+![](User Trips by Gender.PNG)
 
   
 - **The chart of User Trips by Gender by Weekday shows that males tend to use the bike more during the week when compared to females.**
